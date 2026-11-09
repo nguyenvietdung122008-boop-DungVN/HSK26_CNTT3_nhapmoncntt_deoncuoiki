@@ -1,0 +1,3 @@
+Ban giao du an website dat ve xem phim CineBox.
+Website demo nam trong thu muc web: logo khong hien va bang gia ve khong hien.
+Tuyet doi khong upload file .env len GitHub.
